@@ -1,3 +1,4 @@
+require 'engine' if defined?(Rails)
 require "shuai/version"
 
 module Shuai
